@@ -1,0 +1,7 @@
+# Set the default behavior.
+* text=auto
+
+# Explicitly declare text files to be normalized and
+# converted to native line endings on checkout.
+*.cs text
+
